@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="firebase_database_url" translatable="false">https://chibi-293cf.firebaseio.com</string>
-  <string name="gcm_defaultSenderId" translatable="false">780227655297</string>
-  <string name="google_storage_bucket" translatable="false">chibi-293cf.appspot.com</string>
-  <string name="google_app_id" translatable="false">1:780227655297:android:4c6ce3f87078d8ce</string>
-  <string name="default_web_client_id" translatable="false">780227655297-eul4914koebjvuc2gf416fdbos0jhus6.apps.googleusercontent.com</string>
-</resources>
