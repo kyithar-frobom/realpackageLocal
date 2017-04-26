@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChibiBundle.CSharp", "ChibiBundle.CSharp.csproj", "{AC9206DA-808E-5825-CB0D-7FADB34F331E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChibiBundle.CSharp.Editor", "ChibiBundle.CSharp.Editor.csproj", "{9511AC85-E3C0-3625-FB57-E2C1DE5191AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9206DA-808E-5825-CB0D-7FADB34F331E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9206DA-808E-5825-CB0D-7FADB34F331E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9206DA-808E-5825-CB0D-7FADB34F331E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9206DA-808E-5825-CB0D-7FADB34F331E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9511AC85-E3C0-3625-FB57-E2C1DE5191AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9511AC85-E3C0-3625-FB57-E2C1DE5191AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9511AC85-E3C0-3625-FB57-E2C1DE5191AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9511AC85-E3C0-3625-FB57-E2C1DE5191AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_realPackage.CSharp", "AR_realPackage.CSharp.csproj", "{07C860FB-D20A-BCBD-F5F4-99CE89B520A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_realPackage.CSharp.Editor", "AR_realPackage.CSharp.Editor.csproj", "{92485085-49BB-6161-0758-90827A60A842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C860FB-D20A-BCBD-F5F4-99CE89B520A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C860FB-D20A-BCBD-F5F4-99CE89B520A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C860FB-D20A-BCBD-F5F4-99CE89B520A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C860FB-D20A-BCBD-F5F4-99CE89B520A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92485085-49BB-6161-0758-90827A60A842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92485085-49BB-6161-0758-90827A60A842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92485085-49BB-6161-0758-90827A60A842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92485085-49BB-6161-0758-90827A60A842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

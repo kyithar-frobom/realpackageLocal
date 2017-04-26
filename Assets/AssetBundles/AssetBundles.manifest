@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1201445075
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cleaner01
+      Dependencies: {}

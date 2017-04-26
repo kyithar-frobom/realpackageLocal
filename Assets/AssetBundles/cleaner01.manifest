@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1182131200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cdee8f51ca701cd7a840058f13c062a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b5b781656af97eb1964281bfaac6ece
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4a9caa2d3eace64daa98ab36fbecc3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e174852fb3d410148b7676163b4be75e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Perfabs/bathroomcleaner.prefab
+Dependencies: []
